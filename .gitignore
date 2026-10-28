@@ -1,0 +1,11 @@
+# 个人课表缓存（含学号等个人信息），绝不提交
+data/
+.env
+
+# 导出的课表图片
+schedule-*.png
+schedule-*.svg
+
+# 系统杂物
+.DS_Store
+Thumbs.db
